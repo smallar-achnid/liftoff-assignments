@@ -10,10 +10,12 @@ For this assignment, you'll create some initial plans for your project.
 
 Wireframes are available here:
 
--https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_homescreen.jpg
--https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_signup.jpg
--https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_PatternDisplay.jpg
--https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_statsScreen.jpg
+<ul>
+	<li>https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_homescreen.jpg</li>
+	<li>https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_signup.jpg</li>
+	<li>https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_PatternDisplay.jpg</li>
+	<li>https://github.com/smallar-achnid/pattern-game/blob/master/Wireframes/Wireframe_statsScreen.jpg</li>
+</ul>
 
 ### Project Tracker
 
