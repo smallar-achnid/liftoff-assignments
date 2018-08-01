@@ -13,6 +13,6 @@ https://github.com/smallar-achnid
 https://www.linkedin.com/in/graceerincallahan/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+Here is the link to my resume: https://github.com/smallar-achnid/liftoff-assignments/blob/master/C1-Online_Profiles/GraceCallahanDeveloperResume.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
