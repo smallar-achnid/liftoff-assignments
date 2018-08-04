@@ -10,10 +10,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 I am creating a study game that asks users to guess the next number in a pattern. It gives them the chance to try multiple times to guess the next number. It also tracks the users statistics so they can see how they've been doing.
 
 ### Features
-1. User login
-	2. Pattern game
-	3. Ability to view and reset stats. Stats include longest streak, high score, current streak, and current score
-	4. I would like to add more features past the MVP stage: I would LOVE for the computer to learn what mistakes they are making and give them hints or explain various patterns so they can take that information and apply it.
+<ul>
+	<li>1. User login</li>
+	<li>2. Pattern game</li>
+	<li>3. Ability to view and reset stats. Stats include longest streak, high score, current streak, and current score</li>
+	<li>4. I would like to add more features past the MVP stage: I would LOVE for the computer to learn what mistakes they are making and give them hints or explain various patterns so they can take that information and apply it.</li>
+</ul>
   
 ### Technologies
 1. Python
